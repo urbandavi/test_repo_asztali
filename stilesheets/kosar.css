@@ -1,0 +1,128 @@
+
+#paybutton-container{
+    height: 25rem;
+}
+#paybutton{
+    width: 100%;
+    text-align: center;
+    border-radius: 15px;
+    height: 3rem;
+    font-weight: 600;
+}
+#fizetendo-osszeg-container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+    border: grey solid 1px;
+    background-color: white;
+    height: 3rem;
+    margin-top: 1rem;
+}
+#fizetendo-osszeg-container p{
+    margin-bottom: 0px;
+}
+#penznem-es-osszeg{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+#penznem-es-osszeg p{
+    padding-left: 2px;
+}
+#fizetes-section{
+    height: 20rem;
+    display: flex;
+    align-items: center;
+}
+#paybutton-bottom-margin{
+    margin-bottom: 2rem;
+    
+}
+#w1155{
+    max-height: 15rem; 
+    
+    overflow: hidden;
+ }
+.item-image{
+    background-color: red;
+    height: 15rem;
+    width: 15rem;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+#centered{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.one-item-prize
+{
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.one-item-prize p{
+    margin-right: 5px;
+}
+.vertical-center-paragraph{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.termek-card-design{
+    border-radius: 15px;
+    border: solid black 1px;
+    padding: 5px;
+}
+
+main{
+    background: #ebd3a9;
+    background: linear-gradient(180deg, rgba(235, 211, 169, 1) 0%, rgba(79, 32, 13, 1) 100%);
+    margin-top: -16px;
+    padding-top: 15px;
+    padding-bottom: 397px;
+}
+
+/*
+.kosar-elem{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-radius: 15px;
+    border: 1px solid black;
+    padding: 1.5rem;
+
+}
+@media screen and (min-width: 576px) {
+  .kosar-elem {
+    height: 20rem;
+  }
+  .termek-img{
+    min-height: 100%;
+  }
+}
+.termek-img{
+    --termek-magassag-egyenlo-szelesseg: 100%;
+    background-color: red;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    min-height: 20rem;
+}
+#placeholder{
+    width: 100%;
+    height: 10rem;
+    background-color: red;
+}
+.kosar-elem .row{
+    height: 100%;
+}
+.item-calls{
+    max-height: 100%;
+}
+    */

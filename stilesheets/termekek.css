@@ -1,0 +1,38 @@
+#szuro{
+    text-align: center;
+}
+.btn-secondary{
+    width: 100%;
+    margin-bottom: 20px;
+}
+#szurok{
+    text-align: left;
+}
+#szuro{
+    margin-bottom: 50px;
+}
+.dropdown-menu{
+    width: 100%;
+}
+.dropdown-item{
+    text-align: center !important;
+}
+main{
+    background: #ebd3a9;
+    background: linear-gradient(180deg, rgba(235, 211, 169, 1) 0%, rgba(79, 32, 13, 1) 100%);
+    padding-bottom: 1px;
+    min-height: 666px;
+}
+.card{
+    margin-bottom: 50px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+.kartyakep{
+    height: 220px;
+}
+.hidden {
+    display: none;
+}
+footer{
+    padding-bottom: 50px;
+}
